@@ -24,6 +24,13 @@ h1{
 .half-width img{
     width: 90%;
 }
+.half-width-1{
+    width: 50%;
+    padding: 2%;
+}
+.half-width-1 img{
+    width: 40%;
+}
 .link-button{
     text-decoration: none;
     background-color: rgb(231, 85, 85);
