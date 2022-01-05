@@ -11,6 +11,9 @@ h1{
 .chocolate-color{
     color: chocolate;
 }
+.red-color{
+    color: red;
+}
 .center-add{
     text-align: center;
 }
@@ -58,4 +61,13 @@ h1{
     border-radius: 5px;
     color: rgb(245, 214, 214);
     font-weight: 700;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: rgb(32, 32, 32);
+
+}
+footer p{
+    font-size: smaller;
 }
