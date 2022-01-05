@@ -11,7 +11,10 @@ h1{
 .chocolate-color{
     color: chocolate;
 }
-section{
+.center-add{
+    text-align: center;
+}
+.flexible-conteiner{
     display: flex;
 }
 .half-width{
