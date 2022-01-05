@@ -17,6 +17,10 @@ h1{
 .flexible-conteiner{
     display: flex;
 }
+#decoration{
+    margin-left: 50px;
+    margin-right: 50px;
+}
 .half-width{
     width: 50%;
     padding: 5%;
@@ -27,9 +31,25 @@ h1{
 .half-width-1{
     width: 50%;
     padding: 2%;
+    margin-inline: 10px;
 }
 .half-width-1 img{
     width: 40%;
+}
+.half-width-1 p{
+    font-size: smaller;
+}
+#mission{
+    background-color: rgb(228, 238, 245);
+    border-radius: 10px;
+}
+#vission{
+    background-color: rgb(222, 232, 241);
+    border-radius: 10px;
+}
+#goals{
+    background-color: rgb(212, 227, 241);
+    border-radius: 10px;
 }
 .link-button{
     text-decoration: none;
