@@ -62,12 +62,15 @@ h1{
     color: rgb(245, 214, 214);
     font-weight: 700;
 }
-footer{
+.middled{
     text-align: center;
     color: white;
-    background-color: rgb(32, 32, 32);
-
+    background-color: rgb(32, 32, 32); 
 }
 footer p{
     font-size: smaller;
 }
+.add-font{
+    font-family: "Sofia", sans-serif;
+}
+
